@@ -1,0 +1,259 @@
+/*parallax introdução*/
+#parallaxintro .parallaxall {
+  background: url('introdução.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 40vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxintro .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: white;
+  padding-top: 70px;
+  text-align: center;
+}
+
+.buttoncontent {
+  background-color: var(--base-color);
+  color: var(--text-color-light);
+  height: 3rem;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 2rem;
+  border-radius: 0.25rem;
+  font: 500 1rem 'DM Sans', sans-serif;
+  transition: background 0.3s;
+  width: 10rem;
+  margin-left: 2rem;
+}
+
+/*parallax ex*/
+#parallaxex .parallaxall {
+  background: url('NOVAIORQUE3.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 70vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxex .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  width: 30rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  color: rgb(28, 0, 37);
+  padding-top: 90px;
+  text-align: center;
+}
+
+.contentimg,
+.contentimg2 {
+  float: left;
+  margin-right: 2rem;
+  margin-top: 2rem;
+  width: 30rem;
+}
+
+/*parallax ny*/
+#parallaxny .parallaxall {
+  background: url('ny-1.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 70vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxny .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  width: 30rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  color: rgb(28, 0, 37);
+  padding-top: 90px;
+  text-align: center;
+}
+
+#parallaximp .parallaxall {
+  background: url('Smart-urban-mobility.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 70vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaximp .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  width: 30rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  color: rgb(28, 0, 37);
+  padding-top: 90px;
+  text-align: center;
+}
+
+#parallaxse .parallaxall {
+  background: url('se3.png');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 60vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxse .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  width: 30rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  color: rgb(43, 1, 58);
+  padding-top: 90px;
+  text-align: center;
+}
+
+#parallaxs1 .parallaxall {
+  background: url('SmartCitiesdevice.png');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 50vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxs1 .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  width: 30rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  color: rgb(43, 1, 58);
+  padding-top: 90px;
+  text-align: center;
+}
+
+#parallaxs2 .parallaxall {
+  background: url('smart-city-cidade.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 50vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxs2 .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  width: 30rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  color: white;
+  padding-top: 90px;
+  text-align: center;
+}
+
+#parallaxs3 .parallaxall {
+  background: url('sc.png');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 50vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxs3 .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 2.5rem;
+  width: 30rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  color: white;
+  padding-top: 90px;
+  text-align: center;
+}
+
+#parallaxcon .parallaxall {
+  background: url('sc3.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 50vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxcon .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  width: 30rem;
+
+  margin-bottom: 1rem;
+  color: white;
+  padding-top: 90px;
+  text-align: center;
+}
+
+#parallaxman .parallaxall {
+  background: url('../Assets/fotos/userman2.jpg');
+  max-width: 50rem;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 50vh;
+  width: auto;
+  text-align: center;
+}
+
+#parallaxman .parallaxall .parallaxtext {
+  font-family: 'Poppins', serif;
+  font-size: 3rem;
+  width: 30rem;
+
+  margin-bottom: 1rem;
+  color: white;
+  padding-top: 90px;
+  text-align: center;
+}
+
+.buttoncontent {
+  background-color: var(--base-color);
+  color: var(--text-color-light);
+  height: 4rem;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 2rem;
+  border-radius: 0.25rem;
+  font: 500 1rem 'DM Sans', sans-serif;
+  transition: background 0.3s;
+  width: 15rem;
+  margin-left: 2rem;
+}
+
+/*RESPONSIVO*/
+/* extra large devices: 1200 > */
+@media (min-width: 1200px) {
+  #parallaxintro .parallaxall {
+    background: url('introdução.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+    width: auto;
+    text-align: center;
+  }
+
+  #parallaxintro .parallaxall .parallaxtext {
+    font-family: 'Poppins', serif;
+    font-size: 6rem;
+    margin-bottom: 1rem;
+    color: white;
+    padding-top: 70px;
+    text-align: center;
+  }
+}
